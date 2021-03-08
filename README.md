@@ -1,2 +1,3 @@
 # noescaperemovaltool
-The No EScpe Removal Tool (Work In Progress)
+The No Escpe Removal Tool (Work In Progress)
+This Repo Contines Files To Remove NoEscpe.exe
